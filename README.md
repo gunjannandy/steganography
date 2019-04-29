@@ -10,7 +10,7 @@ Steganography can be divided into two types:
       - **DCT** (Discrete Cosine Transformation).
       - **DWT** (Discrete Wavelet Transformation).  
 
-If you want to know about the transformations, and how they are performed, check out our [Project Paper](Detailed%20theory%20paper/steganography.pdf).
+If you want to know about the transformations, and how they are performed, check out our [Project Paper](Detailed_theory_paper/steganography.pdf).
 
 ## Usage:
 Go to your terminal. And run the following command:  
