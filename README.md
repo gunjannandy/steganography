@@ -13,8 +13,19 @@ Steganography can be divided into two types:
 If you want to know about the transformations, and how they are performed, check out our [Project Paper](Detailed_theory_paper/steganography.pdf).
 
 ## Usage:
-Go to your terminal. And run the following command:  
-> python watermarking.py    
+
+Make sure you have **pip** installed!
+
+Go to your terminal. And run the following command to install dependencies: 
+
+```console
+pip install -r requirements.txt
+```
+Now to run the program, run the following command:
+
+```console
+python watermarking.py 
+```
 
 It will create 3 new folders `(it will overwrite if those folders previously exixsted)` named ***"Encoded_image"*** , ***"Decoded_output"*** and ***"Comparison_result"***.    
 
