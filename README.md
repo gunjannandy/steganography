@@ -53,7 +53,7 @@ babylon.png
 inside the folder named "Original_image"_**
 
 Now this will ask you to enter the text which you want to hide inside that
-image.  
+image.
 Then it will encode your text in the image and save it inside the folder named
 **_"Encoded_image"_**.
 
