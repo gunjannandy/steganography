@@ -6,7 +6,7 @@
 Steganography can be divided into two types:
   1. Spatial domain transformation:  
       - **LSB** (Least Significant Bit) transformation.
-  2. Frequemcy domain transformation:  
+  2. Frequency domain transformation:  
       - **DCT** (Discrete Cosine Transformation).
       - **DWT** (Discrete Wavelet Transformation).  
 
